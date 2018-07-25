@@ -61,12 +61,15 @@ Recordar que :
 
 
 - trello despues de dos dias:
+
 ![trello modificado](https://scontent-scl1-1.xx.fbcdn.net/v/t1.15752-9/37739779_1726972100689601_4563299470921433088_n.png?_nc_cat=0&oh=65d42a78ebf7e1f6ff711fc942183d36&oe=5BCCB7F3)
 
 - 1er prototipo de baja fidelidad:
+
 ![1er prototipo de baja fidelidad](https://scontent-scl1-1.xx.fbcdn.net/v/t1.15752-9/37757577_1727014314018713_5106207526391644160_n.jpg?_nc_cat=0&oh=1ca6646668fca3839e0d029eeb01e8ac&oe=5BDA695B)
 
 - 2do prototipo de baja fidelidad:
+
 ![2do prototipo de baja fidelidad](https://scontent-scl1-1.xx.fbcdn.net/v/t1.15752-9/37736710_1727006844019460_1583917852103016448_n.jpg?_nc_cat=0&oh=e4fe9a677e608da12d0e9e1001e39393&oe=5BD8C840)
 
 
