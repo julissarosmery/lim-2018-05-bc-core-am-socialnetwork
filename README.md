@@ -1,35 +1,17 @@
+
 # red social ayni o urpi(no esta definido el nombre)
-
 esta es un red social enfocada en la educacion atravez del compartir experiencias,datos,etc; con la intencion de fomentar el aprendisaje atreavez de un plataforma diferente como una red social.y asi dar la posiblilidad de fomentar ,inspirar y enseñar aserca del peru.
-
-
-# pimeros pasos:
-- creamos el backlog:
-![trello 1ra semana](https://scontent-scl1-1.xx.fbcdn.net/v/t1.15752-9/37687023_1724405557612922_9008906912263045120_n.png?_nc_cat=0&oh=626b12b3d6cf1822974cbac551d655ff&oe=5BE02C3C)
-
-- creamos una encuesta para tener mas informacion aserca de las preferencias de los usuarios :
-
-
-![encuesta](https://scontent-scl1-1.xx.fbcdn.net/v/t1.15752-9/37790019_1725330907520387_4919293470247485440_n.png?_nc_cat=0&oh=428ac94ac0cb4d69195b871e6b377835&oe=5BDA4C18)
-
-
-![encuesta primer plano](https://scontent-scl1-1.xx.fbcdn.net/v/t1.15752-9/37710085_1725340624186082_2109743959348609024_n.png?_nc_cat=0&oh=cc3f69357f31ec20dce9559936be6a65&oe=5BD7CF6C)
-
-
-![resultados](https://scontent-scl1-1.xx.fbcdn.net/v/t1.15752-9/37768704_1725428667510611_6570271494306267136_n.png?_nc_cat=0&oh=709156aab3f31897db9bda8d6692499d&oe=5BD5A9AB)
-
 # Nuestra historia comienza así: 
 
 ¿Red Social? ¿Educación? ¿Perú? ¿Aprender? ¿Enseñar? ¿Qué nuestro país tiene tanto que mostrarnos ?
  Este equipo piensa distinto, pensó distinto al momento de pensar cuál sería el tema  al crear alguna Red Social.
   
   
-  (imagen donde se piensa en hablar sobre viajes ) 
+  ![imagen donde se piensa en hablar sobre viajes](https://scontent-scl1-1.xx.fbcdn.net/v/t1.15752-9/37421179_1719512124768932_8314206616538841088_n.png?_nc_cat=0&oh=71ccce2d5dedad4a1bb79c894ae6c318&oe=5BCA0EAF) 
 
     Bastó esta imagen para tener claro hacia donde y quienes iríamos en este proyecto. Coicidentemente nosotras tres 
     pensamos en unión-conexión-aprendizaje-respeto y libertad de expresión cuando nos referiamos a Redes Sociales.
     Estos conceptos abre puertas a una investigación bastante dedicada para querer obtener resultados más certeros.
-
 
 #### 1) Definición del producto
 
@@ -51,6 +33,20 @@ Aquí se adjuntan
 -fotos de entrevistas, cuestionarios y/o sketches
 (bocetos) . ( link de nuestro primer formulario) 
 
+- creamos una encuesta para tener mas informacion aserca de las preferencias de los usuarios :
+![encuesta](https://scontent-scl1-1.xx.fbcdn.net/v/t1.15752-9/37790019_1725330907520387_4919293470247485440_n.png?_nc_cat=0&oh=428ac94ac0cb4d69195b871e6b377835&oe=5BDA4C18)
+
+![encuesta primer plano](https://scontent-scl1-1.xx.fbcdn.net/v/t1.15752-9/37710085_1725340624186082_2109743959348609024_n.png?_nc_cat=0&oh=cc3f69357f31ec20dce9559936be6a65&oe=5BD7CF6C)
+
+- resultados:
+
+![resultados](https://scontent-scl1-1.xx.fbcdn.net/v/t1.15752-9/37771499_1726985594021585_8616899839793299456_n.png?_nc_cat=0&oh=0ab1cdd1bd67bb1adb04bd5009937575&oe=5C0BA641)
+
+- sugerencias recopiladas en el cuestionario:
+![sugerencias recopiladasen la encuesta](https://scontent-scl1-1.xx.fbcdn.net/v/t1.15752-9/37767458_1726993257354152_6568159173555519488_n.png?_nc_cat=0&oh=ef721cea32d34d05903be3b866b12e9e&oe=5BD0C59B)
+
+
+
 
 Recordar que : 
  
@@ -59,7 +55,19 @@ Recordar que :
 -Poner en juego tu creatividad para generar ideas que lleven a una solución original y valiosa del problema."
 
 
+# pimeros pasos:
+- creamos el backlog:
+![trello 1ra semana](https://scontent-scl1-1.xx.fbcdn.net/v/t1.15752-9/37687023_1724405557612922_9008906912263045120_n.png?_nc_cat=0&oh=626b12b3d6cf1822974cbac551d655ff&oe=5BE02C3C)
 
+
+- trello despues de dos dias:
+![trello modificado](https://scontent-scl1-1.xx.fbcdn.net/v/t1.15752-9/37739779_1726972100689601_4563299470921433088_n.png?_nc_cat=0&oh=65d42a78ebf7e1f6ff711fc942183d36&oe=5BCCB7F3)
+
+- 1er prototipo de baja fidelidad:
+![1er prototipo de baja fidelidad](https://scontent-scl1-1.xx.fbcdn.net/v/t1.15752-9/37757577_1727014314018713_5106207526391644160_n.jpg?_nc_cat=0&oh=1ca6646668fca3839e0d029eeb01e8ac&oe=5BDA695B)
+
+- 2do prototipo de baja fidelidad:
+![2do prototipo de baja fidelidad](https://scontent-scl1-1.xx.fbcdn.net/v/t1.15752-9/37736710_1727006844019460_1583917852103016448_n.jpg?_nc_cat=0&oh=e4fe9a677e608da12d0e9e1001e39393&oe=5BD8C840)
 
 
 
