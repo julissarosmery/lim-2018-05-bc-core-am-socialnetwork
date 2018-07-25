@@ -55,8 +55,11 @@ Recordar que :
 -Poner en juego tu creatividad para generar ideas que lleven a una solución original y valiosa del problema."
 
 
-## pimeros pasos:
-- creamos el backlog:
+# pimeros pasos:
+## creamos el backlog :
+![backlog](https://scontent-scl1-1.xx.fbcdn.net/v/t1.15752-9/37772637_1727568857296592_3362266275240738816_n.jpg?_nc_cat=0&oh=1514ad5d0aa183ad1213fecbadccdeb0&oe=5C0D452E)
+
+## trello primer dia:
 ![trello 1ra semana](https://scontent-scl1-1.xx.fbcdn.net/v/t1.15752-9/37687023_1724405557612922_9008906912263045120_n.png?_nc_cat=0&oh=626b12b3d6cf1822974cbac551d655ff&oe=5BE02C3C)
 
 
