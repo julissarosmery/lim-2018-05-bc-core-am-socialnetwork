@@ -10,14 +10,9 @@ window.onload =()=>{
             //si no estamos logeados
             loggedOut.style.display ="block";
             loggedIn.style.display ="none";
-            
-
-            
         }
     });
 }
-
-
 window.register =() => {
     const emailValue = email.value;
     const passwordValue = password.value;
@@ -25,7 +20,6 @@ window.register =() => {
     .then(() =>{
         console.log("usuario registrado");
         alert("bienvenida tu registro fue exitoso comensemos 💕");
-
     })
     .catch((error)=>{
         console.log("error de firebase >" +error.code);
@@ -41,7 +35,6 @@ window.login=()=>{
     .then(()=>{
         console.log("usuario con login exitoso")
         alert("que pasa aqui");
-
     })
     .catch((error)=>{
         console.log("error de firebase >"+ error.code);
@@ -59,4 +52,20 @@ logout=()=>{
 
     })
     .cath();
+}
+loginFacebook=()=>{
+    const provider = new firebase.auth.FacebookAuthProvider();
+    //provider.addScope("user_birthday");tiene que pedirle permiso a facebook
+    provider.setCustomParameters({
+        'display': 'popup'
+
+    });
+    firebase.auth().signInWithPopup(provider)
+    .then(()=>{
+       console.log("login con facebook");
+    })
+    .catch((error)=>{
+        console.log("error de firebase >"+ error.code);
+        console.log("error de firebase ,mensaje >" +error.message);
+    });
 }
