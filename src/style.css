@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+body {
+
+    background: #DEDEDE;
+    display:flex;
+    min-height: 100vh;
+}
+#loginContainer{
+margin:auto;
+width: 50%;
+max-width: 500px;
+;
+}
