@@ -1,4 +1,7 @@
 
+# Creando una Red Social 
+
+
 # red social ayni o urpi(no esta definido el nombre)
 esta es un red social enfocada en la educacion atravez del compartir experiencias,datos,etc; con la intencion de fomentar el aprendisaje atreavez de un plataforma diferente como una red social.y asi dar la posiblilidad de fomentar ,inspirar y enseñar aserca del peru.
 ## Nuestra historia comienza así: 
