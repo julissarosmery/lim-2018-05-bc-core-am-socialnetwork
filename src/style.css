@@ -34,7 +34,7 @@ border: 1px solid rgba(0,0,0,0.2);
 
  }
 
-input[type="button"]{
+input[type="submit"]{
     background: linear-gradient(#FFDA63,#FFB940);
     border: 0;
     color:brown;
@@ -45,15 +45,19 @@ input[type="button"]{
     margin-bottom: 0;
 
 }
-input[type="button"]:hover{
+input[type="submit"]:hover{
     opacity: 1;
 }
-input[type="button"]:active{
+input[type="submit"]:active{
     transform: scale(0.95);
 }
 @media (max-width:768px){
     form{
         width: 95%;
     }
+}
+p{
+    text-align: center;
+    
 }
 

@@ -6,9 +6,10 @@
     <title>socialnetwork</title>
     <!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
     <link rel="stylesheet" href="style.css" />
+  
 </head>
 <body>
-    <form action="">
+    <form action="" onsubmit="return validar();">
         <h1>chat laboratoria</h1>
         <div id="loginContainer">
             <div id="loggedIn">
@@ -16,11 +17,12 @@
                 <input id="logOutButton" onclick="logout()" type="button" value="LOG OUT">
             </div>
             <div id="loggedOut">
-                <input id="email"type="email" placeholder=" &#128272;ingreas tu email" required>
-                <input id="password" type="password" placeholder=" &#128272;pon aqui tu contraceña"required>
-                <input id="logInButton" onclick="register()" type="button" value="REGISTER">
-                <input id="login" onclick="login()" type="button" value="LOGIN">
-                <input id="loginFacebook" onclick="loginFacebook()" type="button" value="LOGIN FACEBOOK">
+                <input id="email"type="email" placeholder=" &#128272;ingreas tu email" >
+                <input id="password" type="password" placeholder=" &#128272;pon aqui tu contraceña">
+                <input id="logInButton" onclick="register()" type="submit" value="REGISTER">
+                <input id="login" onclick="login()" type="submit" value="LOGIN">
+                <input id="loginFacebook" onclick="loginFacebook()" type="submit" value="LOGIN FACEBOOK">
+                <p >¿ya tienes cuenta?<a href="#">Ingresa Aqui</a></p>
             </div>
         </div>
     </form>
@@ -43,7 +45,9 @@
    
 
 
-    <script src="main.js"></script>
+    <script src="main.js"></script> 
+     <script src="validar.js"></script>
+
 
 </body>
 </html>
