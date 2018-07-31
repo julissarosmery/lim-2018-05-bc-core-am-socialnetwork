@@ -10,9 +10,50 @@ body {
     display:flex;
     min-height: 100vh;
 }
-#loginContainer{
+
+form {
 margin:auto;
-width: 50%;
-max-width: 500px;
-;
+ width: 50%;
+max-width: 500px; 
+background: #F3F3F3;
+padding: 30px;
+border: 1px solid rgba(0,0,0,0.2);
 }
+ h1{
+     text-align: center;
+     margin-bottom: 20px;
+     color:rgba(0,0,0,0.5);
+     font-family: cursive;
+ }
+ input {
+     display:block;
+     padding: 10px;
+     width: 100%;
+     margin: 30px 0;
+     font-size: 20px;
+
+ }
+
+input[type="button"]{
+    background: linear-gradient(#FFDA63,#FFB940);
+    border: 0;
+    color:brown;
+    opacity: 0.8;
+    cursor: pointer;
+    /* vuelve el botton redondo */
+    border-radius: 20px;
+    margin-bottom: 0;
+
+}
+input[type="button"]:hover{
+    opacity: 1;
+}
+input[type="button"]:active{
+    transform: scale(0.95);
+}
+@media (max-width:768px){
+    form{
+        width: 95%;
+    }
+}
+
